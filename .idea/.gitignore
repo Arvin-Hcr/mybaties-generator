@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../mybatis-generator-for-imooc\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../../:\videos\mkw的Java架构师直通车\架构师所有资料\课件资料\mybatis-generator-for-imooc\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
